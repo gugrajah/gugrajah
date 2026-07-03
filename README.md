@@ -1,7 +1,7 @@
 ## Hi there, I'm Gugulethu 👋
 
 # 💫 About Me:
-💻I build scalable, end-to-end BI solutions<br>Certified in **Power BI**, **Microsoft Azure**, and **Microsoft Fabric**<br>🧠Currently participating in the 2026 **Databricks Advanced Learning Festival**<br>📍 Pretoria, South Africa
+💻I build scalable, end-to-end BI solutions<br>📃 Certified in **Power BI**, **Microsoft Azure**, and **Microsoft Fabric**<br>🧠Currently participating in the 2026 **Databricks Advanced Learning Festival**<br>📍 Pretoria, South Africa
 
 
 ## 🌐 Socials:
