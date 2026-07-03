@@ -3,6 +3,8 @@
 # 💫 About Me:
 💻I build scalable, end-to-end BI solutions<br>📃 Certified in **Power BI**, **Microsoft Azure**, and **Microsoft Fabric**<br>🧠Currently participating in the 2026 **Databricks Advanced Learning Festival**<br>📍 Pretoria, South Africa
 
+[![My GitFut card](https://gitfut.com/gugrajah.png)](https://gitfut.com/gugrajah)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gugstheanalyst) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:packetsniffer@protonmail.com) 
