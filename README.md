@@ -1,7 +1,7 @@
 ## Hi there, I'm Gugulethu 👋
 
 # 💫 About Me:
-💻I help organisations build scalable, end-to-end BI solutions<br>👨‍💻Vibe coding apps to automate my personal finances<br>🧠Currently participating in the 2026 Data Engineering Zoomcamp<br>📍 Pretoria, South Africa
+💻I build scalable, end-to-end BI solutions<br>🧠Currently participating in the 2026 **Databricks Advanced Learning Festival**<br>📍 Pretoria, South Africa
 
 
 ## 🌐 Socials:
